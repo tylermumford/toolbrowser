@@ -1,0 +1,12 @@
+name = "Tinker"
+weight = "85g"
+features = [
+  "main blade",
+  "small blade",
+  "can opener with small screwdriver tip",
+  "bottle opener with large screwdriver tip",
+  "90-degree phillips screwdriver",
+  "awl",
+  "toothpick",
+  "tweezers",
+]

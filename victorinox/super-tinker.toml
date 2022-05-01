@@ -1,0 +1,7 @@
+name = "Super Tinker"
+"based on" = "Tinker"
+weight = "94g"
+"features added" = [
+  "scissors",
+  "parcel hook",
+]

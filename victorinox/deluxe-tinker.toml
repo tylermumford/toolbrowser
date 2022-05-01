@@ -1,0 +1,6 @@
+name = "Deluxe Tinker"
+"based on" = "Super Tinker"
+weight = "112g"
+"features added" = [
+  "pliers"
+]

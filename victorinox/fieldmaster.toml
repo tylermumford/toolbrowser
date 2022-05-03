@@ -1,9 +1,9 @@
 name = "Fieldmaster"
 weight = "86g"
-"based on" = "Deluxe Tinker"
-"features added" = [
+"base model" = "Deluxe Tinker"
+"feature additions" = [
     "saw"
 ]
-"features removed" = [
+"feature removals" = [
     "pliers"
 ]

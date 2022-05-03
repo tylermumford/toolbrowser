@@ -1,0 +1,8 @@
+name = "Classic SD"
+features = [
+    "small blade",
+    "nail file with small screwdriver tip",
+    "small scissors",
+    "tweezers",
+    "toothpick",
+]

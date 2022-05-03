@@ -1,0 +1,3 @@
+name = "Classic Alox"
+"base model" = "Classic SD"
+variation = "Alox" # Look up a variation called "Alox", which removes tweezers and toothpick

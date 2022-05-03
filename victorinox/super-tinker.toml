@@ -1,7 +1,7 @@
 name = "Super Tinker"
-"based on" = "Tinker"
+"base model" = "Tinker"
 weight = "94g"
-"features added" = [
+"feature additions" = [
   "scissors",
   "parcel hook",
 ]

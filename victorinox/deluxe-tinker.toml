@@ -1,6 +1,6 @@
 name = "Deluxe Tinker"
-"based on" = "Super Tinker"
+"base model" = "Super Tinker"
 weight = "112g"
-"features added" = [
+"feature additions" = [
   "pliers"
 ]

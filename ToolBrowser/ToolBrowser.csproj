@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+    <PackageReference Include="Tomlyn" Version="0.14.2" />
+    <PackageReference Include="Tomlyn.Extensions.Configuration" Version="1.0.4" />
   </ItemGroup>
 
 </Project>

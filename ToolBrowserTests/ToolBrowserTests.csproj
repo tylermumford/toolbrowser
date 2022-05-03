@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\toolbrowser.csproj" />
+    <ProjectReference Include="..\ToolBrowser\ToolBrowser.csproj" />
   </ItemGroup>
 
 </Project>

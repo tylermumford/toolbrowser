@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
-    <Compile Remove="ToolBrowserTests/**" />
   </ItemGroup>
 
 </Project>

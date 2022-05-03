@@ -2,3 +2,6 @@
 obj
 .vs
 .DS_Store
+
+# Normally Git ignores .git, but apparently VS for Mac doesn't know that.
+.git
